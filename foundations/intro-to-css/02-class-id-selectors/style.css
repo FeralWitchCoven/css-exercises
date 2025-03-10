@@ -11,3 +11,9 @@ p {
 .subsection {
   font-size: 24px;
 }
+
+#subtitle {
+  background-color: lightgreen;
+  font-size: 24px;
+  font-weight: 700;
+}
